@@ -1,0 +1,34 @@
+math
+3
+3
+daniel 19626485 5
+petar 19621545 4
+cvetan 196246156 4
+
+web
+4
+3
+ivan 19624685 3
+krasimira 19542245 5
+ioana 19421541 4
+
+oop
+1
+4
+krum 195255263 4
+rumqna 196212465 5
+raina 196454252 4
+bogdan 196266485 2
+
+
+ds
+5
+3
+nikolai 19659566 2
+qsen 196265413 2
+viktoriq 19621545 5
+
+ds
+2
+1
+kaloqn 196451568 2
